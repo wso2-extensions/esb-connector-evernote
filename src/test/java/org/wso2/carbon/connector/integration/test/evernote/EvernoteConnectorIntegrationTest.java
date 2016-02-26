@@ -32,7 +32,7 @@ import org.wso2.connector.integration.test.base.ConnectorIntegrationTestBase;
 import javax.xml.namespace.QName;
 
 public class EvernoteConnectorIntegrationTest extends ConnectorIntegrationTestBase {
-    private static final String CONNECTOR_NAME = "evernote-connector-1.0.0";
+    private static final String CONNECTOR_NAME = "evernote-connector-1.0.1-SNAPSHOT";
     private String noteGuid = null;
     private String noteGuid2 = null;
     private String notebookGuid = null;
