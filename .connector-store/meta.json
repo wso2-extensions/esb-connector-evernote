@@ -4,7 +4,7 @@
     "category": "Productivity Tools",
     "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/Evernote+Connector",
     "description": "The Evernote connector allows you to access the Evernote API through the WSO2 ESB. Evernote is an application that's designed for note taking and archiving that helps you remember everything across all of your devices. The connector uses the Evernote Java SDK API version 1.0.0 to connect to Evernote and create, delete , update and Share note and notebook and more.",
-    "status": "Unsupported",
+    "status": "Active",
     "labels": [
         "connector"
     ],
